@@ -1,6 +1,6 @@
-# Focus Support
+# FocusDensya Support
 
-Public, static privacy and support pages for the Focus iPhone app.
+Public, static privacy and support pages for the FocusDensya iPhone app.
 
 - No analytics
 - No cookies
