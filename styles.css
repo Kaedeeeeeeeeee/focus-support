@@ -110,6 +110,7 @@ h1 { max-width: 720px; margin: 0; font-size: clamp(2.6rem, 9vw, 5.3rem); font-we
 .content h2 { margin: 2.4em 0 0.65em; font-size: 1.55rem; line-height: 1.25; }
 .content h2:first-child { margin-top: 0; }
 .content h3 { margin: 1.8em 0 0.5em; font-size: 1.12rem; }
+.content code { font-size: 0.9em; overflow-wrap: anywhere; }
 .content p, .content ul, .content ol { margin: 0.7em 0; }
 .content li + li { margin-top: 0.4em; }
 .notice { margin: 28px 0 0; padding: 18px 20px; border-left: 4px solid var(--accent); border-radius: 0 12px 12px 0; background: rgba(203,98,69,0.08); }
